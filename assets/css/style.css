@@ -528,6 +528,10 @@ a.mobile:active
   
 }
 
+div {
+  display: inline-block;
+  }
+
 #hero .container {
   padding-top: 72px;
   
@@ -728,7 +732,7 @@ section {
 # Cliens
 --------------------------------------------------------------*/
 .cliens {
-  padding: 12px 0;
+  padding: 10px 0;
   text-align: center;
   background-color: #fff;
 }
